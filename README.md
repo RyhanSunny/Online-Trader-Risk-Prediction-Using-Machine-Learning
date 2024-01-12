@@ -1,7 +1,6 @@
 # Online Trader Risk Prediction
 
-### Author: Sajib Rayhan Suny
-### Student ID: N01654285
+### Author: Ryhan Sunny
 
 ## Overview
 
